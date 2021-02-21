@@ -31,7 +31,7 @@ Cada objeto Sala possui um id e ArrayList's de membros e nomes.
 1 - Não existe a ação CRIAR SALA. a responsabilidade de criar está no botão Entrar na sala. 
     Quando se tenta entrar numa sala que não existe, tal sala é criada;
     
-2 - Na interface de Chat dos cliente possuem dois campos de texto, Mensagem e Id da sala. 
+2 - Na interface de Chat dos cliente possuem dois campos de texto: Mensagem e Id da sala. 
 
 3 - O campo Id da sala é extremamente importante, pois ele deve ter um valor informado antes para todas as ações disponibilizada na interface.
     A saber: Enviar Mensagem, Entrar na sala, Sair da sala, Listar Membros Sala e Listar Salas;
