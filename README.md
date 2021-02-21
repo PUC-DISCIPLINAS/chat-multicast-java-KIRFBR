@@ -37,7 +37,7 @@ Obs.:
 
 ### PROTOCOLO DE COMUNICAÇÃO
 
-ENTRAR NA SALA (Caso a sala não exista, ela é criada com o id passado)
+#### ENTRAR NA SALA (Caso a sala não exista, ela é criada com o id passado)
 
 envio: Id da sala;
 
