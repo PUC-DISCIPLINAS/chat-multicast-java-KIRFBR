@@ -65,4 +65,5 @@ recebimento: Mensagem informando o resultado: sucesso ou falha
 #### ENVIAR MENSAGEM
 
 envio: Id da sala e Mensagem;
+
 recebimento: a própria mensagem enviada, no chat;
