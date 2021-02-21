@@ -1,7 +1,7 @@
-### AUTOR
+### 1. AUTOR
 Keterson Flôres
 
-### RESUMO GERAL
+### 2. RESUMO GERAL
 São 3 classes que constituem a proposta: Servidor.java, Cliente.java e Sala.java;
 
 Foi utilizada interface gráfica na interação com o usuário tanto no Servidor e principalmente no cliente.
@@ -9,11 +9,11 @@ Foi utilizada interface gráfica na interação com o usuário tanto no Servidor
 Além do material disponibilizado pelo professor, foi usado também como referência o material em:
 https://www.devmedia.com.br/como-criar-um-chat-multithread-com-socket-em-java/33639
 
-### DETALHES ESPECÍFICOS (DO SISTEMA)
+### 3. DETALHES ESPECÍFICOS (DO SISTEMA)
 Para a manipulação de salas, foi-se utilizado ArrayList de objetos Sala.
 Cada objeto Sala possui um id e ArrayList's de membros e nomes. 
 
-### COMO USAR
+### 4. COMO USAR
 1 - Clonar o repositório;
 
 2 - Compilar as classes Servidor.java e Cliente.java caso o Java não seja o 1.8; Caso seja, este passo deve ser desconsiderado;
@@ -35,7 +35,7 @@ Obs.:
 3 - O campo Id da sala é extremamente importante, pois ele deve ter um valor informado antes para todas as ações disponibilizada na interface.
     A saber: Enviar Mensagem, Entrar na sala, Sair da sala, Listar Membros Sala e Listar Salas;
 
-### PROTOCOLO DE COMUNICAÇÃO
+### 5. PROTOCOLO DE COMUNICAÇÃO
 
 #### ENTRAR NA SALA (Caso a sala não exista, ela é criada com o id passado)
 
