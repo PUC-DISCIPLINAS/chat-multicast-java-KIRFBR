@@ -26,7 +26,8 @@ Cada objeto Sala possui um id e ArrayList's de membros e nomes.
     
 5 - E por fim para cada cliente será aberta uma interface para interação. 
 
-Obs.: 
+#### Obs.: 
+
 1 - Não existe a ação CRIAR SALA. a responsabilidade de criar está no botão Entrar na sala. 
     Quando se tenta entrar numa sala que não existe, tal sala é criada;
     
