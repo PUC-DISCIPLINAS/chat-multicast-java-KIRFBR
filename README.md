@@ -15,11 +15,15 @@ Cada objeto Sala possui um id e ArrayList's de membros e nomes.
 
 ### COMO USAR
 1 - Clonar o repositório;
+
 2 - Compilar as classes Servidor.java e Cliente.java caso o Java não seja o 1.8; Caso seja, este passo deve ser desconsiderado;
+
 3 - No terminal dentro da pasta bin, executar primeiro o Servidor (java Servidor).
     Será aberta uma janela pedindo a porta. Recomenda-se usar a sugerida (12345);
+    
 4 - Em seguida, em outros terminais (também na pasta bin), executar tantas vezes quanto for desejado a classe Cliente (java Cliente).
     Será aberta uma janela pedindo o IP do servidor, a Porta do servidor e o Nome do usuário. Recomenda-se usar o IP e Porta sujeridos;
+    
 5 - E por fim para cada cliente será aberta uma interface para interação. 
 
 Obs.: 
