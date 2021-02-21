@@ -43,25 +43,25 @@ envio: Id da sala;
 
 recebimento: Mensagem informando que sala foi criada (quando não existe) ou que foi adicionado;
 
-LISTAR SALAS
+#### LISTAR SALAS
 
 envio: nenhum parâmetro; 
 
 recebimento: Lista de salas existentes
 
-LISTAR MEMBROS DA SALA
+#### LISTAR MEMBROS DA SALA
 
 envio: Id da sala;
 
 recebimento: Membros atuais da sala;
 
-SAIR DA SALA
+#### SAIR DA SALA
 
 envio: Id da sala;
 
 recebimento: Mensagem informando o resultado: sucesso ou falha
 
-ENVIAR MENSAGEM
+#### ENVIAR MENSAGEM
 
 envio: Id da sala e Mensagem;
 recebimento: a própria mensagem enviada, no chat;
